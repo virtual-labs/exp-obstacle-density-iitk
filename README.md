@@ -21,4 +21,4 @@ Creep is progressive i.e. permanent and time dependant deformation of a material
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Dhananjay Umrao | Project Engineer | Information Technology | Dr.AITH | dumrao@iitk.ac.in
-2 | Abhinav Singh | Project Associate | Computer Science | Punjab University | abhinavsingh.7788@gmail.com
+2 | Sheetal Singh | Sr. Project Associate | Computer Science | PSIT Kanpur | sheetals@gmail.com
