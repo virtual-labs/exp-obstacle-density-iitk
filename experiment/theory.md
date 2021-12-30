@@ -8,6 +8,6 @@ Creep is progressive i.e. permanent and time dependant deformation of a material
   <b>Results</b><br><br>
   <img src="images/1.14.jpg"><br>
   <img src="images/1.67.jpg"><br>
-  <img src="images/9.10.jpg"><br>
+  <img src="images/9.10.jpg"><br><br>
   <b>Conclusion</b><br><br>
   <img src="images/conclusion.PNG"><br>
